@@ -1,4 +1,4 @@
-@navigate @smoke
+
 Feature: Navigation Menu
 
   Scenario: Navigating Fleet -- Vehicles
